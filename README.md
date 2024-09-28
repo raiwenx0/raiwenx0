@@ -3,8 +3,7 @@
 Hi! I'm Ediz, a 19 y/o software developer from Turkiye. 
 
 <img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali)](https://skillicons.dev)  
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
