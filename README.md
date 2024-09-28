@@ -1,7 +1,6 @@
 # Hey There 👋 
 - 
 Hi! I'm Ediz, a 19 y/o software developer from Turkiye. 
-<img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
 
 
 <picture>
@@ -9,6 +8,7 @@ Hi! I'm Ediz, a 19 y/o software developer from Turkiye.
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,py,sqlite,vscode,linux,kali">
 </picture>
 
+<img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
 
 
 
