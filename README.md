@@ -3,7 +3,6 @@
 Hi! I'm Ediz, a 19 y/o software developer from Turkiye. 
 
 [![My Skills]([https://skillicons.dev/icons?theme=dark&i=js,ts,py,html,css,go,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs,bun](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
   
 -
 ## My Discord Acc
