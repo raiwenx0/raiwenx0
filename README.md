@@ -9,6 +9,8 @@ Hi! I'm Ediz, a 19 y/o software developer from Turkiye.
 </picture>
 
 
+
+
 <img src="https://komarev.com/ghpvc/?username=l1ve709XXD&color=15171a">
 
 
