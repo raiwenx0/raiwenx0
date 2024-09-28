@@ -1,6 +1,7 @@
 # Hey There 👋 
 
-Hi! I'm Ediz, a 19 y/o software developer from Turkiye.
+*Hi! I'm Ediz, a 19 y/o software developer from Turkiye.*
+
 -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1ve709XXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
